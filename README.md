@@ -1,0 +1,2 @@
+# virtual_currency_staking_calculation
+仮想通貨ステーキングシミュレーション
